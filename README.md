@@ -4,7 +4,7 @@
 ## Set virtual environment:
 	python3 -m venv env_name
 
-Note: Exclude the folder env_name from your git branch
+**Note**: Exclude the folder env_name from your git branch
 
 ## Activate virtual name:
 	source env_name/bin/activate
