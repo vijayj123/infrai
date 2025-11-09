@@ -1,0 +1,5 @@
+# Ignore a specific file
+.env
+
+# Ignore an entire directory and its contents
+agentenv/
