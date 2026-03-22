@@ -1,0 +1,4 @@
+
+Standard Instance Type: t2.micro
+Standard Linux AMI ID: ami-0f559c3642608c138
+Default AWS Regaion: ap-south-1
